@@ -1,3 +1,5 @@
+package tutorial
+
 import cats.effect.kernel.{Resource, Sync}
 import cats.effect.{ExitCode, IO, IOApp}
 import cats.syntax.all._
